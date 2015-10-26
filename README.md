@@ -1,4 +1,4 @@
-This script takes the top N articles from a specified list of sections from the NYT homepage and opens them in the default internet browser.
+Made for a friend. This script takes the top N articles from a specified list of sections from the NYT homepage and opens them in the default internet browser.
 
 #INSTALL
 
